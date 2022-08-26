@@ -1,7 +1,6 @@
 
-
-export default class DropDown{
-  static inti(){
+class DropDown{
+  static init(){
     this.domCache();
     this.bindEvents();
   }
@@ -34,3 +33,5 @@ export default class DropDown{
     e.classList.add('active')
   }
 }
+
+DropDown.init();
