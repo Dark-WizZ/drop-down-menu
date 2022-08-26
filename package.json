@@ -1,0 +1,11 @@
+{
+  "name": "@darkwizz/drop-down-menu",
+  "version": "1.0.0",
+  "description": "basic drop down menu",
+  "main": "src/dropDown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
